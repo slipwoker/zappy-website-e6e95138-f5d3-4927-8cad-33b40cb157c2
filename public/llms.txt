@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלה את gamestorm rgb converter המתקדם ביותר לציוד גיימינג מקצועי. כלים חכמים לגיימרים תחרותיים שרוצים לשדרג את חוויית המשחק שלהם עכשיו!
+
+### טורנירים
+https://example.com/tournaments
+הצטרף לטורנירי הגיימינג המרגשים ביותר בישראל! תחרויות מקצועיות עם פרסים מדהימים, ציוד גיימינג מתקדם ואתגרים שיקחו אותך לרמה הבאה.
+
+### קהילה
+https://example.com/community
+הצטרף לאלפי גיימרים ישראלים בקהילה התוססת שלנו! שתף טיפים, מצא שותפים למשחק, קבל עצות מקצועיות ותיהנה ממתנות גיימינג לילדים ונוער.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על ציוד גיימינג מקצועי או gamestorm rgb converter? צוות המומחים שלנו כאן כדי לעזור! צור קשר עכשיו וקבל ייעוץ אישי מותאם במיוחד בשבילך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - GameStorm
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - GameStorm
+
+### Category
+https://example.com/category/:slug
+מוצרים - GameStorm
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
